@@ -1,7 +1,21 @@
+p > img{
+  width: 100px; 
+  height: 100px;
+  }
+  
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: #6e9abe;
+    padding: 10px;
+  }
 body {
-    background-color: #e2f0f0;
+    background-color: #8df0f0;
   }
   
   p > strong{
-    color: rgb(0, 47, 255);
+    color: rgb(0, 15, 100);
   }
+.BookRow{
+  margin-left: 20px;
+}
