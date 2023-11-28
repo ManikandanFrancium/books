@@ -1,0 +1,7 @@
+body {
+    background-color: #e2f0f0;
+  }
+  
+  p > strong{
+    color: rgb(0, 47, 255);
+  }
